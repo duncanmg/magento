@@ -1,0 +1,1 @@
+/var/www/magento-ce-2-2-3/vendor/magento/module-catalog-inventory/view/adminhtml/web/js/components/use-config-min-sale-qty.js

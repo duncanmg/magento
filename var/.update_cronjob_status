@@ -1,0 +1,8 @@
+{
+    "readiness_checks": {
+        "error": "<br/>Found non-writable path(s):<br/>/var/www/magento-ce-2-2-3/.htaccess<br/>/var/www/magento-ce-2-2-3/.htaccess.sample<br/>/var/www/magento-ce-2-2-3/.php_cs.dist<br/>/var/www/magento-ce-2-2-3/.travis.yml<br/>/var/www/magento-ce-2-2-3/.user.ini",
+        "file_permissions_verified": false
+    },
+    "last_timestamp": 1521043501,
+    "current_timestamp": 1521043802
+}
